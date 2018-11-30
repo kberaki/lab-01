@@ -1,0 +1,104 @@
+@media screen and (min-width: 468px) and (max-width: 768px) {
+  nav {
+		height: 75px;
+	}
+	aside {
+		height: 150px;
+		width: 100%;
+	}
+	
+	#first {
+		height: 150px;
+		width: 100%;
+		float: left;
+	}
+	#secound {
+		height: 150px;
+		width:100%;
+		float: left;
+	}
+	#three{
+		height: 150px;
+		width:50%;
+		float: left;
+		background-color: blue;
+	}
+	#four{
+		height: 150px;
+		width:50%;
+		float: left;
+		background-color: rgb(225, 0, 255);
+	}
+	#five{
+		height: 250px;
+		width:50%;
+		float: left;
+		background-color: rgb(0, 255, 234);
+	}
+	#six{
+		height: 250px;
+		width:50%;
+		float: left;
+		background-color: rgb(123, 255, 0);
+	}
+	#seven{
+		height: 150px;
+		width:100%;
+		float: left;
+		background-color: rgb(255, 238, 0);
+	}
+}
+
+@media screen and (min-width: 768px) {
+	nav {
+		height: 100px;
+	}
+	aside {
+		height: 600px;
+		width: 200px;
+		float: left;
+	}
+	section{
+		display: inline-block;
+	}
+	#first {
+		height: 200px;
+		width: 40%;
+		float: left;
+	}
+	#secound {
+		height: 200px;
+		width:40%;
+		float: left;
+	}
+	#three{
+		height: 250px;
+		width:20%;
+		float: left;
+		background-color: blue;
+	}
+	#four{
+		height: 250px;
+		width:20%;
+		float: left;
+		background-color: rgb(225, 0, 255);
+	}
+	#five{
+		height: 250px;
+		width:20%;
+		float: left;
+		background-color: rgb(0, 255, 234);
+	}
+	#six{
+		height: 250px;
+		width:20%;
+		float: left;
+		background-color: rgb(123, 255, 0);
+	}
+	#seven{
+		height: 150px;
+		width:80%;
+		float: left;
+		background-color: rgb(255, 238, 0);
+	}
+}
